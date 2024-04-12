@@ -1,0 +1,5 @@
+module CLZ4 {
+    header "shim.h"
+    link "lz4"
+    export *
+}

@@ -1,0 +1,4 @@
+module CNoLifeWzToNx {
+    header "convert.h"
+    export *
+}

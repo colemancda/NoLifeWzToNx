@@ -1,0 +1,5 @@
+module CSquish {
+    header "shim.h"
+    link "squish"
+    export *
+}
